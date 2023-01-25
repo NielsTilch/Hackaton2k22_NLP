@@ -1,4 +1,4 @@
-# Hackaton2k22_NLP
+# AI in job recommendation
 NLP-based deep recommendation system (BERT) for the classification of job offers and resumes.
 
 
